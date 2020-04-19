@@ -1,2 +1,2 @@
-# Unity-Building-Blocks-Stream
-Repo for my upcoming live-stream on Unity's YouTube channel teaching beginners all about GameObjects &amp; Components
+# Unity-Building-Blocks-by-Dapper-Dino-modification
+Repo for Dapper Dino's Unity Building Blocks project from stream modified version
